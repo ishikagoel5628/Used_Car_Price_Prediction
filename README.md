@@ -1,5 +1,5 @@
 ## Used_Car_Price_Prediction
-The goal of this project is to predict the price of cars using Machine Learning. The algorithm that is used here to decide the price of the cars is Linear Regression and Random forest. This is one of the practice projects of Machine Learning course in Dataquest.
+The goal of this project is to predict the price of cars using Machine Learning. The algorithm that is used here to decide the price of the cars is Linear Regression and Random forest. This is one of the practice projects of Machine Learning course.
 
 ## Features
 Name: The brand and model of the car.
