@@ -1,2 +1,37 @@
-# Used_Car_Price_Prediction
-Exploratory Analysis, Visualization and Prediction of Used Car Prices.
+## Used_Car_Price_Prediction
+The goal of this project is to predict the price of cars using Machine Learning. The algorithm that is used here to decide the price of the cars is Linear Regression and Random forest. This is one of the practice projects of Machine Learning course in Dataquest.
+
+## Features
+Name: The brand and model of the car.
+
+Location: The location in which the car is being sold or is available for purchase.
+
+Year: The year or edition of the model.
+
+Kilometers_Driven: The total kilometres driven in the car by the previous owner(s) in KM.
+
+Fuel_Type: The type of fuel used by the car.
+
+Transmission: The type of transmission used by the car.
+
+Owner_Type: Whether the ownership is Firsthand, Second hand or other.
+
+Mileage: The standard mileage offered by the car company in kmpl or km/kg
+
+Engine: The displacement volume of the engine in cc.
+
+Power: The maximum power of the engine in bhp.
+
+Seats: The number of seats in the car.
+
+New_Price: The price of a new car of the same model.
+
+Price: The price of the used car in INR Lakhs.
+## Approach
+Part 1 -Data Cleaning
+
+Part 2 -EDA
+
+Part 3 -Visualization & Hypothesis Testing
+
+Part 4 -Machine Learning
